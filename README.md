@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://images.app.goo.gl/z9X1rMxfHob8aEbh9" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ilikesticker.com%2FLineStickerAnimation%2FW3857882-chibi-cute-boy%2Fen&psig=AOvVaw3Gya8LEeWw0P9uanas7Rt9&ust=1654009608995000&source=images&cd=vfe&ved=2ahUKEwjqxO6KwIf4AhXuYmwGHY0EAoUQjRx6BAgAEAs" /> </p>
 
 <p align="left"> <a href="https://twitter.com/inosent_aman" target="blank"><img src="https://img.shields.io/twitter/follow/inosent_aman?logo=twitter&style=for-the-badge" alt="inosent_aman" /></a> </p>
 
