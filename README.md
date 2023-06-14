@@ -5,7 +5,7 @@
 
 ### Current Working Environments
 
-[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)<br>
+[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows11)<br>
 [![Ubuntu 20.04.5 LTS](https://img.shields.io/badge/Ubuntu%2020.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/focal/)
 
 - 📫 How to reach me **amankumar805554@gmail.com**
@@ -18,7 +18,7 @@
 > - NVIDIA GeForce® GTX 1650Ti
 > - 16GB DDR4 RAM
 > - 250 GB SSD & 1 TB HDD
-> - Windows 10 Home 64
+> - Windows 11 Home 64
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
